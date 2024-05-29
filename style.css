@@ -1,0 +1,43 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+header {
+    display:inline-block;
+}
+.destination {
+    height: 100vh;
+    width: 100vw;
+    background-image: url(https://cdn.pixabay.com/photo/2020/08/29/05/54/mountains-5526265_1280.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+
+.gallery {
+    height: 100vh;
+    background-image: url(https://cdn.pixabay.com/photo/2019/05/28/00/15/indoors-4234071_1280.jpg);
+    background-size: cover;
+    background-position: center center;
+
+}
+
+.categories {
+    height: 100vh;
+    background-image: url(https://cdn.pixabay.com/photo/2017/10/23/05/56/summer-2880261_1280.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+
+.title {
+    position: static;
+    bottom: 50px;
+    left: 50px;
+
+}
+
+h1, h2, p, {
+    color: white;
+}
+
+}
